@@ -40,6 +40,7 @@ This file outlines the standard set of applications and configuration changes th
     ```bash
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
+- **Syncthing**: Used for Syncing files across devices. <https://syncthing.net/downloads/>
 
 ## Configuration Changes
 
